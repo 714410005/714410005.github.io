@@ -1,0 +1,6 @@
+/* 继续在styles.css中添加（如果需要为联系页面添加特定样式） */
+.contact-text {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+}
